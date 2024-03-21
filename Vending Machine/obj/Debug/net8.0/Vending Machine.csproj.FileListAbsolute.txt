@@ -1,0 +1,29 @@
+/Users/marcus/RiderProjects/Vending Machine/Vending Machine/bin/Debug/net8.0/Vending Machine
+/Users/marcus/RiderProjects/Vending Machine/Vending Machine/bin/Debug/net8.0/Vending Machine.deps.json
+/Users/marcus/RiderProjects/Vending Machine/Vending Machine/bin/Debug/net8.0/Vending Machine.runtimeconfig.json
+/Users/marcus/RiderProjects/Vending Machine/Vending Machine/bin/Debug/net8.0/Vending Machine.dll
+/Users/marcus/RiderProjects/Vending Machine/Vending Machine/bin/Debug/net8.0/Vending Machine.pdb
+/Users/marcus/RiderProjects/Vending Machine/Vending Machine/obj/Debug/net8.0/Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcus/RiderProjects/Vending Machine/Vending Machine/obj/Debug/net8.0/Vending Machine.AssemblyInfoInputs.cache
+/Users/marcus/RiderProjects/Vending Machine/Vending Machine/obj/Debug/net8.0/Vending Machine.AssemblyInfo.cs
+/Users/marcus/RiderProjects/Vending Machine/Vending Machine/obj/Debug/net8.0/Vending Machine.csproj.CoreCompileInputs.cache
+/Users/marcus/RiderProjects/Vending Machine/Vending Machine/obj/Debug/net8.0/Vending Machine.dll
+/Users/marcus/RiderProjects/Vending Machine/Vending Machine/obj/Debug/net8.0/refint/Vending Machine.dll
+/Users/marcus/RiderProjects/Vending Machine/Vending Machine/obj/Debug/net8.0/Vending Machine.pdb
+/Users/marcus/RiderProjects/Vending Machine/Vending Machine/obj/Debug/net8.0/Vending Machine.genruntimeconfig.cache
+/Users/marcus/RiderProjects/Vending Machine/Vending Machine/obj/Debug/net8.0/ref/Vending Machine.dll
+/Users/marcus/Documents/GitHub/C-Vending-Machine/Vending Machine/bin/Debug/net8.0/Vending Machine
+/Users/marcus/Documents/GitHub/C-Vending-Machine/Vending Machine/bin/Debug/net8.0/Vending Machine.deps.json
+/Users/marcus/Documents/GitHub/C-Vending-Machine/Vending Machine/bin/Debug/net8.0/Vending Machine.runtimeconfig.json
+/Users/marcus/Documents/GitHub/C-Vending-Machine/Vending Machine/bin/Debug/net8.0/Vending Machine.dll
+/Users/marcus/Documents/GitHub/C-Vending-Machine/Vending Machine/bin/Debug/net8.0/Vending Machine.pdb
+/Users/marcus/Documents/GitHub/C-Vending-Machine/Vending Machine/obj/Debug/net8.0/Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcus/Documents/GitHub/C-Vending-Machine/Vending Machine/obj/Debug/net8.0/Vending Machine.AssemblyInfoInputs.cache
+/Users/marcus/Documents/GitHub/C-Vending-Machine/Vending Machine/obj/Debug/net8.0/Vending Machine.AssemblyInfo.cs
+/Users/marcus/Documents/GitHub/C-Vending-Machine/Vending Machine/obj/Debug/net8.0/Vending Machine.csproj.CoreCompileInputs.cache
+/Users/marcus/Documents/GitHub/C-Vending-Machine/Vending Machine/obj/Debug/net8.0/Vending Machine.sourcelink.json
+/Users/marcus/Documents/GitHub/C-Vending-Machine/Vending Machine/obj/Debug/net8.0/Vending Machine.dll
+/Users/marcus/Documents/GitHub/C-Vending-Machine/Vending Machine/obj/Debug/net8.0/refint/Vending Machine.dll
+/Users/marcus/Documents/GitHub/C-Vending-Machine/Vending Machine/obj/Debug/net8.0/Vending Machine.pdb
+/Users/marcus/Documents/GitHub/C-Vending-Machine/Vending Machine/obj/Debug/net8.0/Vending Machine.genruntimeconfig.cache
+/Users/marcus/Documents/GitHub/C-Vending-Machine/Vending Machine/obj/Debug/net8.0/ref/Vending Machine.dll
