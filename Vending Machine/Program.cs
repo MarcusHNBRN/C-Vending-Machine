@@ -5,7 +5,7 @@ public class Item
 {
     public string Name { get; set; }
     public double Price { get; set; }
-    public string Code { get; set; } // Unique identifier for each item
+    public string Code { get; set; } 
 
     public Item(string name, double price, string code)
     {
